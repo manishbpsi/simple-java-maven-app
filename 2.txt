@@ -1,3 +1,4 @@
 Hello This is file2
 Added line number 2
 Added line number 3
+Added line number 4
